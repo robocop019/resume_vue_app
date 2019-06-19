@@ -1,0 +1,40 @@
+.darkmode {
+  background-color: #353C51;
+  background-image: none;
+  color: white;
+}
+
+.darkmode .resume-links {
+  text-decoration: none;
+  font-weight: bold;
+  color: #18AEBD;
+}
+
+.darkmode .resume-links:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.darkmode .capstone-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FAB21A;
+}
+
+.darkmode .capstone-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.darkmode .student-names {
+  color: white;
+}
+
+.darkmode .student-names:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.darkmode .resume-headers {
+  color: #F58DA2;
+}

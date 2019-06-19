@@ -1,0 +1,94 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center; 
+}
+
+.lightmode {
+  background-image: url('nice_snow.png');
+  color: #2c3e50;
+}
+
+#dark-light {
+  cursor: pointer;
+}
+
+.student-photo {
+  max-width: 250px;
+  max-height: 400px;
+  border-radius: 125px;
+}
+
+.capstone-photo {
+  max-width: 250px;
+  max-height: 400px;
+}
+
+.card {
+  max-height: 600px;
+  text-align: center;
+}
+
+.student-photos {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 200px;
+  max-height: 350px;
+}
+
+.resume-links {
+  text-decoration: none;
+  font-weight: bold;
+  color: #B793F9;
+}
+
+.resume-links:hover {
+  text-decoration: none;
+  color: #10aded;
+}
+
+.capstone-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #D97494;
+}
+
+.capstone-link:hover {
+  text-decoration: none;
+  color: #04FFFF;
+}
+
+.student-names {
+  color: white;
+}
+
+.student-names:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+.resume-headers {
+  color: navy;
+}
+
+.skills {
+  display: inline-block;
+}
+
+ul {
+  display: inline-block;
+}
+
+.navbar {
+  background-color: #FFC0CB;
+}
+
+.navbar-link {
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.navbar-link:hover {
+  color: limegreen;
+}
